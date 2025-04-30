@@ -16,8 +16,8 @@
 
   <h2>🛠️ Installation</h2>
   <p><strong>Clone the Repository:</strong></p>
-  <pre><code>git clone https://github.com/yourusername/gemini-langchain-cheatsheet.git
-cd gemini-langchain-cheatsheet</code></pre>
+  <pre><code>https://github.com/ameyasutar1/LangChain-GeminiCheatsheet.git
+  cd gemini-langchain-cheatsheet</code></pre>
 
   <p><strong>Create a Virtual Environment:</strong></p>
   <pre><code>python -m venv venv
